@@ -34,6 +34,7 @@ li{
     text-decoration: none;
     color: white;
     &:hover{text-decoration: underline;}
+    &.active{color: darkred;}
   }
 }
 

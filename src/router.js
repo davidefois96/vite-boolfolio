@@ -9,6 +9,7 @@ import Error404 from './pages/Error404.vue';
 
 
 const router = createRouter({
+  linkExactActiveClass:'active',
   history: createWebHistory(),
   routes : [
     {
