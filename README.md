@@ -1,5 +1,7 @@
 # LARAVEL-API E  VITE-BOOLFOLIO
 
+# 1a Parte
+
 ## Milestone 1
 nome repo 1: laravel-api
 
@@ -21,3 +23,16 @@ Stampiamo in console i risultati e verifichiamo di ricevere i dati correttamente
 ## Milestone 5
 Creiamo un nuovo componente ProjectCard, che corrisponde ad una card per visualizzare un progetto. Utilizziamo questo componente per visualizzare tutti i progetti ricevuti tramite API.Bonus:
 Gestire la paginazione dei risultati
+
+# 2a Parte
+
+
+
+continuare sulle repo in corso ossia vite-boolfolio per il frontend e laravel-apiper il backend (se si dovessero aggiungere API)
+
+Nel frontend aggiungere il ruoter con almeno 3 rotte di cui una è la pagina che effettua la chiamata API.
+
+BONUS
+
+1. Aggiungere la navigazione alla pagina dei progetti
+2. aggiungere altre chiamate API per avere l’elenco dei types e technologies

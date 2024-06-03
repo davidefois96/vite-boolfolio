@@ -14,7 +14,7 @@
 </script>
 
 <template>
-  <li>{{ cardObject.id }} - {{ cardObject.name }}
+  <li class=" list-unstyled">{{ cardObject.id }} - {{ cardObject.name }}
 
   </li>
 </template>
