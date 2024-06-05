@@ -25,6 +25,6 @@
 
 <style lang="scss">
 
-
+body{background-color: azure;}
 
 </style>

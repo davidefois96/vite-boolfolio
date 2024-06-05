@@ -14,9 +14,8 @@
 </script>
 
 <template>
-  <li class=" list-unstyled">{{ cardObject.id }} - {{ cardObject.name }}
+  <router-link :to="{name:'projectDetails',params:{slug:cardObject.slug}}" >{{ cardObject.id }} - {{ cardObject.name }}</router-link>
 
-  </li>
 </template>
 
 
